@@ -19,7 +19,9 @@
     left: 10vw;
 
 }
-
+.wrapper{
+    overflow-x: hidden;
+}
 
 .layer-7 {
     left: 50%;
